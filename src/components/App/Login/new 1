@@ -1,0 +1,30 @@
+  {/* <Link to={`/test/${0 + 1}`}>  <BasicCard testtrial finalproduct imgUrl={imgObj}  >
+                <h1 style={styleObj}>Sleve Test</h1>
+                </BasicCard></Link> */}
+               {/* <BasicCard testtrial finalproduct imgUrl={imgObj}  >
+                <h1 style={styleObj}>Strength Test</h1>
+                </BasicCard>
+                <BasicCard testtrial finalproduct imgUrl={imgObj} >
+                <h1 style={styleObj}>pH Test</h1>
+                </BasicCard>
+                <BasicCard testtrial finalproduct imgUrl={imgObj}>
+                <h1 style={styleObj}>Water Demand Test</h1>
+                </BasicCard>
+                <BasicCard testtrial finalproduct imgUrl={imgObj}>
+                <h1 style={styleObj}>Water Content Test</h1>
+                </BasicCard>
+                <BasicCard testtrial finalproduct imgUrl={imgObj}>
+                <h1 style={styleObj}>Gravity Test</h1>
+                </BasicCard>
+                <BasicCard testtrial finalproduct imgUrl={imgObj}>
+                <h1 style={styleObj}>75% Micron Test</h1>
+                </BasicCard>
+                <BasicCard testtrial finalproduct imgUrl={imgObj}>
+                <h1 style={styleObj}>Slump Test</h1>
+                </BasicCard>
+                <BasicCard testtrial finalproduct imgUrl={imgObj}>
+                <h1 style={styleObj}>Marsh Cone Test</h1>
+                </BasicCard>
+                <BasicCard testtrial finalproduct imgUrl={imgObj}>
+                <h1 style={styleObj}>Marsh Cone Test</h1>
+                </BasicCard> */}
