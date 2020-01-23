@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/TCGQDMS-Prototype/static/css/main.3add948f.chunk.css",
+    "main.js": "/TCGQDMS-Prototype/static/js/main.3c79e646.chunk.js",
+    "main.js.map": "/TCGQDMS-Prototype/static/js/main.3c79e646.chunk.js.map",
+    "runtime~main.js": "/TCGQDMS-Prototype/static/js/runtime~main.0f031960.js",
+    "runtime~main.js.map": "/TCGQDMS-Prototype/static/js/runtime~main.0f031960.js.map",
+    "static/css/2.c1531fc8.chunk.css": "/TCGQDMS-Prototype/static/css/2.c1531fc8.chunk.css",
+    "static/js/2.985606c1.chunk.js": "/TCGQDMS-Prototype/static/js/2.985606c1.chunk.js",
+    "static/js/2.985606c1.chunk.js.map": "/TCGQDMS-Prototype/static/js/2.985606c1.chunk.js.map",
+    "index.html": "/TCGQDMS-Prototype/index.html",
+    "precache-manifest.4428edd1c947f91abee95077943eb74d.js": "/TCGQDMS-Prototype/precache-manifest.4428edd1c947f91abee95077943eb74d.js",
+    "service-worker.js": "/TCGQDMS-Prototype/service-worker.js",
+    "static/css/2.c1531fc8.chunk.css.map": "/TCGQDMS-Prototype/static/css/2.c1531fc8.chunk.css.map",
+    "static/css/main.3add948f.chunk.css.map": "/TCGQDMS-Prototype/static/css/main.3add948f.chunk.css.map",
+    "static/media/AIV.jpg": "/TCGQDMS-Prototype/static/media/AIV.56720557.jpg",
+    "static/media/Sieve-Analysis.jpg": "/TCGQDMS-Prototype/static/media/Sieve-Analysis.5e5ba4d5.jpg",
+    "static/media/primereact.min.css": "/TCGQDMS-Prototype/static/media/line.567f5738.gif",
+    "static/media/images1.jpg": "/TCGQDMS-Prototype/static/media/images1.454b91a3.jpg",
+    "static/media/new1.png": "/TCGQDMS-Prototype/static/media/new1.4e25be1d.png",
+    "static/media/theme.css": "/TCGQDMS-Prototype/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/TCGQDMS-Prototype/static/media/primeicons.b8eccb10.eot",
+    "static/media/side.jpg": "/TCGQDMS-Prototype/static/media/side.0994ab9c.jpg",
+    "static/media/slump-test1.jpg": "/TCGQDMS-Prototype/static/media/slump-test1.4e83dd63.jpg",
+    "static/media/strength1.jpg": "/TCGQDMS-Prototype/static/media/strength1.f9780859.jpg",
+    "static/media/tokyocement1.jpg": "/TCGQDMS-Prototype/static/media/tokyocement1.029550c6.jpg"
+  }
+}
