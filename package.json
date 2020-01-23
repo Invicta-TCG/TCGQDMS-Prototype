@@ -2,7 +2,7 @@
   "name": "tokyoproject",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://romipraveen1.github.io/project_tk",
+  "homepage": "https://Invicta-TCG.github.io/TCGQDMS-Prototype",
   "dependencies": {
     "@fullcalendar/core": "^4.1.0",
     "@material-ui/core": "^4.6.1",
